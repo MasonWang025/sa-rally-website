@@ -25,7 +25,7 @@ export default function Hero() {
                       <span className="sm:block">Stand with </span>
                       <span className="sm:block">Survivors</span>
                     </h1>
-                    <p className="mt-1 text-xl text-gray-500 sm:mt-1.5 lg:text-2xl">
+                    <p className="mt-1 text-xl text-coc-blue-darker sm:mt-1.5 lg:text-2xl">
                       hosted by Culture of Consent
                     </p>
                     <p className="mt-3 text-2xl text-coc-dark-primary sm:mt-5 lg:text-3xl">
