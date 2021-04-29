@@ -20,7 +20,8 @@ export default function What() {
               After hearing about and experiencing sexual harassment and assault
               in our community, we decided to host this rally not only to
               <span className="text-coc-dark-primary font-medium">
-                {" "}discuss the prevalence of sexual harassment and assault in
+                {" "}
+                discuss the prevalence of sexual harassment and assault in
                 Saratoga
               </span>{" "}
               but to also{" "}
@@ -38,13 +39,11 @@ export default function What() {
               culture is deeply rooted in our everyday lives.
             </p>
           </div>
-          <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLScY-O_4k8qWik3syS6SqeGRfSYkmMTujDcR-TJsUACM2c1qRg/viewform"
-            target="_blank"
-            className="mt-5 inline-flex items-center px-6 py-3 border border-transparent text-base font-medium uppercase shadow-sm trans-150 text-white bg-coc-purple-primary hover:bg-coc-purple-dark focus:outline-none"
-          >
-            More About Us
-          </a>
+          <Link href="/about">
+            <a className="mt-5 inline-flex items-center px-6 py-3 border border-transparent text-base font-medium uppercase shadow-sm trans-150 text-white bg-coc-purple-primary hover:bg-coc-purple-dark focus:outline-none">
+              More About Us
+            </a>
+          </Link>
         </main>
       </div>
     </div>
