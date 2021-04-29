@@ -4,7 +4,7 @@ import Navigation from "./../global/Navigation";
 export default function Hero() {
   return (
     <div
-      className="bg-cover bg-no-repeat bg-center overflow-hidden"
+      className="bg-cover bg-no-repeat bg-coc-dark-light bg-center overflow-hidden"
       style={{ backgroundImage: "url('/img/bg/general-dark.png')" }}
     >
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
