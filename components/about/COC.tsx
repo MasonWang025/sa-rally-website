@@ -102,17 +102,19 @@ export default function COC() {
               >
                 Culture of Consent
               </h2>
-              <p className="text-lg text-white">
-                Founded in 2020, Culture of Consent is a team of students and
-                staff at Saratoga High School dedicated to identifying
-                school-wide issues around sexual harassment and assault,
-                educating about consent, and supporting survivors of sexual
-                harassment and assault.{" "}
-                <div className="font-semibold">
+              <div className="text-lg text-white">
+                <p>
+                  Founded in 2020, Culture of Consent is a team of students and
+                  staff at Saratoga High School dedicated to identifying
+                  school-wide issues around sexual harassment and assault,
+                  educating about consent, and supporting survivors of sexual
+                  harassment and assault.{" "}
+                </p>
+                <p className="mt-1.5 font-semibold">
                   We hope to work with both administration and the student body
                   to create a safe and supportive community for all.
-                </div>
-              </p>
+                </p>
+              </div>
               <a
                 className="block w-full py-3 px-5 text-center bg-white uppercase border border-transparent shadow-sm text-base font-medium text-coc-purple-dark hover:bg-gray-50 sm:inline-block sm:w-auto"
                 href="https://www.instagram.com/cultureofconsentshs/"
