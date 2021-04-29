@@ -8,9 +8,9 @@ import Navigation from "../global/Navigation";
 export default function Hero() {
   return (
     <div
-      className="bg-cover bg-coc-light-primary bg-no-repeat bg-center min-h-screen flex items-center relative overflow-hidden home-hero"
+      className="bg-cover bg-no-repeat bg-center min-h-screen flex items-center relative overflow-hidden home-hero"
     >
-      <div className="xl:px-16 px-4 sm:px-6 lg:px-8">
+      <div className="pcontainer">
         <main>
           <div className="mx-auto">
             <div className="md:grid md:grid-cols-12">
@@ -20,7 +20,7 @@ export default function Hero() {
                     <Navigation />
                   </div>
                   <div>
-                    <h1 className="mt-4 text-4xl tracking-tight font-bold  text-coc-dark-primary sm:mt-5 sm:text-5xl lg:mt-6 xl:text-6xl">
+                    <h1 className="mt-4 text-4xl tracking-tighter sm:tracking-normal font-bold  text-coc-dark-primary sm:mt-5 sm:text-5xl lg:mt-6 xl:text-6xl">
                       <span className="sm:block">Stand with </span>
                       <span className="sm:block">Survivors</span>
                     </h1>

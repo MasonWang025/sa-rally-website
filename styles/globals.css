@@ -4,6 +4,7 @@
 @tailwind utilities;
 
 .home-hero {
+  background-color: #f9edff;
   background-image: url("/img/bg/home-hero/mobile.png");
 }
 
@@ -23,7 +24,6 @@
 
 /* lg */
 @media (min-width: 1024px) {
-  
 }
 
 /* xl */
@@ -43,8 +43,8 @@
   @apply text-coc-dark-primary hover:text-coc-dark-dark font-semibold;
 }
 
-.container {
-  @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+.pcontainer {
+  @apply xl:px-16 px-4 sm:px-6 lg:px-8 2xl:px-20;
 }
 
 .trans {
