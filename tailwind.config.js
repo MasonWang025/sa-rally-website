@@ -22,7 +22,7 @@ module.exports = {
           purple: {
             light: "#b691d9",
             primary: "#A880CE",
-            dark: "##8d66b3",
+            dark: "#8d66b3",
           },
           green: {
             light: "#8cd4a7",
