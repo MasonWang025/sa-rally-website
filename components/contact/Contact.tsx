@@ -12,7 +12,7 @@ export default function Contact() {
           <h2 className="sr-only">Contact us</h2>
           <div className="grid grid-cols-1 lg:grid-cols-3">
             {/* Contact information */}
-            <div className="relative overflow-hidden py-10 px-6 bg-coc-purple-primary shadow-md rounded-l-md sm:px-10 xl:p-12">
+            <div className="relative overflow-hidden py-10 px-6 bg-coc-purple-primary rounded-t-md md:rounded-l-md md:rounded-t-none sm:px-10 xl:p-12">
               <div
                 className="absolute inset-0 pointer-events-none sm:hidden"
                 aria-hidden="true"
