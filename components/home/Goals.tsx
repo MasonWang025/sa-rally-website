@@ -28,7 +28,7 @@ export default function Goals() {
         <p className="mt-2 text-3xl font-extrabold text-gray-900 tracking-tight sm:text-4xl">
           Event Goals
         </p>
-        <p className="mt-5 max-w-prose mx-auto text-xl text-gray-500">
+        <p className="mt-5 max-w-prose mx-auto text-2xl text-gray-500">
           Through the Stand with Survivors rally, Culture of Consent aims to
           achieve the following three goals.
         </p>
@@ -40,16 +40,15 @@ export default function Goals() {
                   <div className="-mt-6">
                     <div>
                       <span className="inline-flex items-center justify-center p-3 bg-coc-purple-primary">
-                        {/* Heroicon name: cloud-upload */}
                         <h1 className="font-extrabold text-xl text-white w-7">
                           {index + 1}
                         </h1>
                       </span>
                     </div>
-                    <h3 className="mt-6 text-xl font-bold text-gray-900 tracking-tight">
+                    <h3 className="mt-6 text-2xl font-bold text-gray-900 tracking-tight">
                       {title}
                     </h3>
-                    <p className="mt-5 text-base text-gray-500">{content}</p>
+                    <p className="mt-5 text-lg text-gray-500">{content}</p>
                   </div>
                 </div>
               </div>

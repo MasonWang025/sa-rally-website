@@ -24,7 +24,6 @@ export default function CTA() {
           <div className="ml-3 inline-flex">
             <Link href="/about">
               <a
-                href="#"
                 className="uppercase inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium text-white bg-coc-blue-primary hover:bg-coc-blue-dark"
               >
                 More about us

@@ -78,7 +78,7 @@ input {
 }
 
 .formik-error {
-  @apply text-red-500 font-bold mt-1;
+  @apply text-red-500 font-semibold mt-1;
 }
 
 /*-------------------------------*/
