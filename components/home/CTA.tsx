@@ -7,7 +7,7 @@ export default function CTA() {
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center lg:justify-between">
         <h2 className="text-3xl font-extrabold sm:tracking-tight tracking-tighter text-gray-900 sm:text-4xl">
           <span className="block">Interested in speaking?</span>
-          <span className="block mt-1 text-coc-purple-primary">
+          <span className="block mt-2 text-coc-purple-primary">
             Fill out our speaker interest form.
           </span>
         </h2>
