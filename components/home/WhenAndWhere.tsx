@@ -8,18 +8,18 @@ export default function WhenAndWhere() {
     >
       <div className="pcontainer flex flex-col flex-wrap md:flex-row space-y-12 md:space-y-0 justify-items-center">
         <div className="flex-auto md:w-1/2">
-          <h1 className="text-xl text-gray-300">When</h1>
+          <h1 className="text-xl text-coc-blue-primary">When</h1>
           <p className="mt-2 text-4xl font-medium">Sunday, June 6th, 2021</p>
           <p className="mt-1 text-2xl text-gray-400">Time TBD</p>
         </div>
         <div className="flex-auto md:w-1/2">
-          <h1 className="text-xl text-gray-300">Where</h1>
+          <h1 className="text-xl text-coc-blue-primary">Where</h1>
           <p className="mt-2 font-medium text-4xl">
             Saratoga High School Parking Lot
           </p>
         </div>
         <div className="flex-shrink-0 w-full md:pt-12">
-          <h1 className="text-xl text-gray-300">Watch Remotely</h1>
+          <h1 className="text-xl text-coc-blue-primary">Remote Options</h1>
           <p className="mt-2 text-4xl font-medium">
             Watch via YouTube live stream on{" "}
             <a

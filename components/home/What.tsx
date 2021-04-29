@@ -17,15 +17,16 @@ export default function What() {
           </h1>
           <div className="mt-3 text-gray-500 text-xl md:text-2xl md:mt-5">
             <p>
-              After hearing about and experiencing sexual harassment and assault
-              in our community, we decided to host this rally not only to
-              <span className="text-coc-dark-primary font-medium">
+              After hearing about and experiencing sexual harassment and
+              assault in our community, we decided to host this rally not only
+              to
+              <span className="text-coc-dark-primary font-medium underline-effect">
                 {" "}
                 discuss the prevalence of sexual harassment and assault in
                 Saratoga
               </span>{" "}
               but to also{" "}
-              <span className="text-coc-dark-primary font-medium">
+              <span className="text-coc-dark-primary font-medium underline-effect">
                 encourage our entire community to believe in and support sexual
                 assault survivors
               </span>
