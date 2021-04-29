@@ -5,9 +5,7 @@ import Footer from "../global/Footer";
 import { GA_TRACKING_ID } from "./gtag";
 
 export default function Page({ fullTitle, title, desc, children }: PageProps) {
-  let pageTitle = fullTitle
-    ? fullTitle
-    : title + " | Stand with Survivors";
+  let pageTitle = fullTitle ? fullTitle : title + " | Stand with Survivors";
 
   return (
     <>
@@ -22,6 +20,8 @@ export default function Page({ fullTitle, title, desc, children }: PageProps) {
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={pageTitle} />
         <meta name="twitter:description" content={desc} />
+        <meta property="og:image" content="/img/opengraph.jpg" />
+        <meta name="twitter:image" content="/img/opengraph.jpg" />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
