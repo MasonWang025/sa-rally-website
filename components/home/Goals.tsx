@@ -32,8 +32,8 @@ export default function Goals() {
           Through the Stand with Survivors rally, Culture of Consent aims to
           achieve the following three goals.
         </p>
-        <div className="mt-12">
-          <div className="flex justify-content-center gap-8 md:flex-row flex-col">
+        <div className="mt-8">
+          <div className="flex justify-content-center gap-8 md:flex-row flex-col md:space-y-0 space-y-8">
             {qualities.map(({ title, content }, index) => (
               <div key={title} className="pt-6 flex-root md:w-1/3">
                 <div className="flow-root bg-gray-100 h-full px-6 pb-8">
