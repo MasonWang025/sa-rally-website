@@ -2,6 +2,7 @@ import React from "react";
 import Hero from "../components/home/Hero";
 import WhenAndWhere from "../components/home/WhenAndWhere";
 import Page from "./../components/utility/Page";
+import What from "./../components/home/What";
 
 export default function index() {
   return (
@@ -11,7 +12,7 @@ export default function index() {
     >
       <Hero />
       <WhenAndWhere />
-      <div className="py-12 pcontainer">todo</div>
+      <What />
     </Page>
   );
 }

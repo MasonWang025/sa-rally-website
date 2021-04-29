@@ -2,7 +2,10 @@ import React from "react";
 
 export default function WhenAndWhere() {
   return (
-    <div className="bg-coc-dark-primary py-24 text-white" style={{backgroundImage: "url('/img/bg/dark-pattern-bg.png')"}}>
+    <div
+      className="bg-coc-dark-primary py-24 text-white"
+      style={{ backgroundImage: "url('/img/bg/dark-pattern-bg.png')" }}
+    >
       <div className="pcontainer flex flex-col flex-wrap md:flex-row space-y-12 md:space-y-0 justify-items-center">
         <div className="flex-auto md:w-1/2">
           <h1 className="text-xl">When</h1>
@@ -15,9 +18,8 @@ export default function WhenAndWhere() {
         </div>
         <div className="flex-shrink-0 w-full md:pt-12">
           <h1 className="text-xl">Watch Remotely</h1>
-          <p className="mt-2 text-2xl">
-            This rally can be accessed remotely through either (1) YouTube live
-            stream on{" "}
+          <p className="mt-2 text-4xl">
+            Watch via YouTube live stream on{" "}
             <a
               href="https://www.youtube.com/channel/UCZteJ4RbOyTCRrAVOeV4xwQ"
               target="_blank"
@@ -25,7 +27,7 @@ export default function WhenAndWhere() {
             >
               SHSTV
             </a>{" "}
-            , and (2) Instagram live on{" "}
+            or Instagram live on{" "}
             <a
               href="https://www.instagram.com/shsasb/"
               target="_blank"
