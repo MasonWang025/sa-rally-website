@@ -7,9 +7,7 @@ import Navigation from "../global/Navigation";
 
 export default function Hero() {
   return (
-    <div
-      className="bg-cover bg-no-repeat bg-center min-h-screen flex items-center relative overflow-hidden home-hero"
-    >
+    <div className="bg-cover bg-no-repeat bg-center min-h-screen flex items-center relative overflow-hidden home-hero">
       <div className="pcontainer">
         <main>
           <div className="mx-auto">
@@ -17,7 +15,10 @@ export default function Hero() {
               <div className="md:col-span-7 md:flex">
                 <div className="min-h-screen pt-8 pb-24 sm:py-20 flex flex-col justify-between">
                   <div>
-                    <Navigation />
+                    <Navigation
+                      color="coc-dark-primary"
+                      hoverColor="coc-dark-dark"
+                    />
                   </div>
                   <div>
                     <h1 className="mt-4 text-4xl tracking-tighter sm:tracking-normal font-bold  text-coc-dark-primary sm:mt-5 sm:text-5xl lg:mt-6 xl:text-6xl">
