@@ -3,6 +3,8 @@ import Hero from "../components/home/Hero";
 import WhenAndWhere from "../components/home/WhenAndWhere";
 import Page from "./../components/utility/Page";
 import What from "./../components/home/What";
+import Goals from "../components/home/Goals";
+import CTA from "./../components/home/CTA";
 
 export default function index() {
   return (
@@ -13,6 +15,8 @@ export default function index() {
       <Hero />
       <WhenAndWhere />
       <What />
+      <Goals />
+      <CTA />
     </Page>
   );
 }

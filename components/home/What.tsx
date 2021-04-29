@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function What() {
   return (
-    <div className="relative z-30 bg-gray-50 overflow-hidden" id="about">
+    <div className="relative z-30 bg-gray-100 overflow-hidden" id="about">
       <div className="relative pt-6 pb-16 sm:pb-24">
         <main className="mt-16 pcontainer sm:mt-24">
           <h1 className="tracking-tighter sm:tracking-tight font-bold text-3xl md:text-4xl">

@@ -15,7 +15,7 @@ module.exports = {
       colors: {
         coc: {
           light: {
-            light: "##fcf5ff",
+            light: "#fcf5ff",
             primary: "#F9EDFF",
             dark: "##e9d5f2",
           },
@@ -27,12 +27,12 @@ module.exports = {
           green: {
             light: "#8cd4a7",
             primary: "#7BC697",
-            dark: "##63ab7e",
+            dark: "#63ab7e",
           },
           blue: {
             light: "#8bcfe0",
             primary: "#74C0D3",
-            dark: "##61aec2",
+            dark: "#61aec2",
           },
           dark: {
             light: "##0c3057",
