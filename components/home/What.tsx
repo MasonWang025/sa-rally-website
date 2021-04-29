@@ -15,7 +15,7 @@ export default function What() {
               .
             </div>
           </h1>
-          <div className="mt-3 text-gray-500 text-xl md:text-2xl md:mt-5">
+          <div className="mt-3 text-gray-700 text-xl md:text-2xl md:mt-5">
             <p>
               After hearing about and experiencing sexual harassment and
               assault in our community, we decided to host this rally not only
