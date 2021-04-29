@@ -8,17 +8,14 @@ import Navigation from "../global/Navigation";
 export default function Hero() {
   return (
     <div
-      className="bg-cover bg-coc-light-primary bg-no-repeat bg-center min-h-screen flex items-center relative overflow-hidden"
-      style={{
-        backgroundImage: "url('/img/bg/home-hero/desktop.png')",
-      }}
+      className="bg-cover bg-coc-light-primary bg-no-repeat bg-center min-h-screen flex items-center relative overflow-hidden home-hero"
     >
       <div className="xl:px-16 px-4 sm:px-6 lg:px-8">
         <main>
           <div className="mx-auto">
-            <div className="lg:grid lg:grid-cols-12">
-              <div className="lg:mx-0 lg:col-span-7 lg:flex">
-                <div className="min-h-screen py-20 flex flex-col justify-between">
+            <div className="md:grid md:grid-cols-12">
+              <div className="md:col-span-7 md:flex">
+                <div className="min-h-screen pt-8 pb-24 sm:py-20 flex flex-col justify-between">
                   <div>
                     <Navigation />
                   </div>
