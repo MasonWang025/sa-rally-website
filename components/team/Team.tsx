@@ -39,7 +39,7 @@ export default function Team() {
         <div className="space-y-6 sm:space-y-8 pt-12">
           <div className="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl">
             <h2 className="text-2xl font-extrabold text-coc-purple-primary  tracking-tighter sm:tracking-tight sm:text-3xl -mb-4">
-              Miscellaneous
+              Other
             </h2>
           </div>
           <ul className="mx-auto flex sm:flex-wrap align-middle justify-center flex-col sm:flex-row lg:max-w-7xl">

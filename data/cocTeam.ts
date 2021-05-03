@@ -8,6 +8,7 @@ const cocTeam = [
     name: "Allison Tan",
     email: "isabelle95070@gmail.com",
     instagram: "https://www.instagram.com/allyy.tan/",
+    facebook: "https://www.facebook.com/allison.tan.370",
   },
   {
     name: "Mason Wang",
