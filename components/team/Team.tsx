@@ -30,6 +30,7 @@ export default function Team() {
                   imgSrc={`/img/team/${key}.jpg`}
                   linkedin={member.linkedin}
                   instagram={member.instagram}
+                  facebook={member.facebook}
                 />
               );
             })}
@@ -52,6 +53,7 @@ export default function Team() {
                   imgSrc={`/img/team/${key}.jpg`}
                   linkedin={member.linkedin}
                   instagram={member.instagram}
+                  facebook={member.facebook}
                 />
               );
             })}
