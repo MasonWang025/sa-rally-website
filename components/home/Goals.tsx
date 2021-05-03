@@ -39,7 +39,7 @@ export default function Goals() {
                 <div className="flow-root bg-gray-100 h-full px-6 pb-8">
                   <div className="-mt-6">
                     <div>
-                      <span className="inline-flex items-center justify-center p-3 bg-coc-purple-primary">
+                      <span className="inline-flex items-center shadow-lg justify-center p-3 bg-coc-purple-primary">
                         <h1 className="font-extrabold text-xl text-white w-7">
                           {index + 1}
                         </h1>

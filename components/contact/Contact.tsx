@@ -3,6 +3,7 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import ContactForm from "./ContactForm";
 import navigation from "./../../data/navigation";
+import Link from "next/link";
 
 export default function Contact() {
   return (
@@ -117,7 +118,14 @@ export default function Contact() {
               </div>
               <p className="mt-6 text-base text-white max-w-3xl">
                 Don't hesitate to contact us with any questions or concerns.
-                We'll get back to you as soon as possible.
+                We'll get back to you as soon as possible!
+              </p>
+              <p className="mt-6 text-base text-white max-w-3xl">
+                To contact a specific organizer, please see our{" "}
+                <Link href="/about">
+                  <a className="underline font-medium">About</a>
+                </Link>{" "}
+                page.
               </p>
               <dl className="mt-8 space-y-6">
                 <dt>
