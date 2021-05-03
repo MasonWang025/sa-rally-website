@@ -2,6 +2,7 @@ import React from "react";
 import Hero from "../components/about/Hero";
 import Page from "./../components/utility/Page";
 import COC from "./../components/about/COC";
+import Team from "../components/team/Team";
 
 export default function contact() {
   return (
@@ -11,6 +12,7 @@ export default function contact() {
     >
       <Hero />
       <COC />
+      <Team />
     </Page>
   );
 }
