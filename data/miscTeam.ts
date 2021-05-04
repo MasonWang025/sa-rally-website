@@ -18,7 +18,7 @@ const miscTeam = [
   },
   {
     name: "Noora Fayad",
-    affiliation: "Social Justice Club",
+    affiliation: "Mental Health Intiative",
     facebook: "https://www.facebook.com/allison.p.hartley",
   },
 ];
