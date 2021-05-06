@@ -43,7 +43,6 @@ const cocTeam = [
     name: "Kaylie Wong",
     email: "kaylie16wong@gmail.com",
     facebook: "https://www.facebook.com/kaylie.wong.9484",
-    instagram: "https://www.instagram.com/kaylieewong/",
   },
 ];
 
