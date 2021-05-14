@@ -10,7 +10,7 @@ export default function index() {
   return (
     <Page
       fullTitle="Stand with Survivors"
-      desc="A sexual assualt awareness rally aimed at creating a culture of consent in our community. June 6th @ Saratoga High School."
+      desc="A sexual assualt awareness rally aimed at creating a culture of consent in our community. June 6th, 4-5:30 @ Saratoga High School."
     >
       <Hero />
       <WhenAndWhere />
