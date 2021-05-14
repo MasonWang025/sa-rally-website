@@ -10,7 +10,7 @@ export default function WhenAndWhere() {
         <div className="flex-auto md:w-1/2">
           <h1 className="text-xl text-coc-blue-primary">When</h1>
           <p className="mt-2 text-4xl font-medium">Sunday, June 6th, 2021</p>
-          <p className="mt-1 text-2xl text-gray-400">4-5:30pm</p>
+          <p className="mt-1 text-2xl text-gray-400">4-5:30 pm</p>
         </div>
         <div className="flex-auto md:w-1/2">
           <h1 className="text-xl text-coc-blue-primary">Where</h1>
