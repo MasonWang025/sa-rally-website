@@ -33,11 +33,11 @@ export default function Hero() {
                       culture of consent in our community.
                     </p>
                     <a
-                      href="https://docs.google.com/forms/d/e/1FAIpQLScY-O_4k8qWik3syS6SqeGRfSYkmMTujDcR-TJsUACM2c1qRg/viewform"
+                      href="https://forms.gle/PmntEqwgGAucdknd6"
                       target="_blank"
                       className="mt-5 inline-flex items-center px-6 py-3 border border-transparent text-base font-medium uppercase shadow-sm trans-150 text-white bg-coc-purple-primary hover:bg-coc-purple-dark focus:outline-none"
                     >
-                      Speaker Interest Form
+                      RSVP NOW
                     </a>
                   </div>
                 </div>
