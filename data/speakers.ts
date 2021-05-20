@@ -22,7 +22,14 @@ const speakers = [
     pronouns: "(she/they)",
     email: "gtheresacagliostro@gmail.com",
     insta: "https://www.instagram.com/giannacagliostro/",
-    bio: "Hey! I’m Gianna and I am a junior at Saratoga High. I enjoy learning about social justice and helping others. When I’m not doing those things, I am involved with performing arts program at SHS",
+    bio: "Hey! I’m Gianna and I am a junior at Saratoga High. I enjoy learning about social justice and helping others. When I’m not doing those things, I am involved with performing arts program at SHS.",
+  },
+  {
+    name: "Isabelle Lee",
+    pronouns: "(she/her)",
+    email: "isablee029@gmail.com",
+    insta: "https://www.instagram.com/isabelle_.lee/",
+    bio: "Hi! I'm Isabelle, a Saratoga High School graduate, and an incoming freshman at UCLA. I am invested in learning and advocating for social justice and I'm always looking to hear others' experiences. In my free time, I enjoy music and dance!",
   },
 ];
 
