@@ -12,6 +12,10 @@ const navigation = {
       path: "/",
     },
     {
+      name: "Speakers",
+      path: "/speakers",
+    },
+    {
       name: "About Us",
       path: "/about",
     },

@@ -7,7 +7,7 @@ export default function contact() {
   return (
     <Page
       title="Contact Us"
-      desc="A sexual assualt awareness rally aimed at creating a culture of consent in our community. June 6th @ Saratoga High School."
+      desc="A sexual assualt awareness rally aimed at creating a culture of consent in our community. June 6th, 4-5:30 @ Saratoga High School."
     >
       <Hero />
       <Contact />

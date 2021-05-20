@@ -7,16 +7,6 @@ const miscTeam = [
     instagram: "https://www.instagram.com/es.therluan/",
   },
   {
-    name: "Manasi Garg",
-    affiliation: "Girl Up Co-President",
-    facebook: "https://www.facebook.com/manasi.garg.169",
-  },
-  {
-    name: "Allison Hartley",
-    affiliation: "Girl Up Co-President",
-    facebook: "https://www.facebook.com/allison.p.hartley",
-  },
-  {
     name: "Noora Fayad",
     affiliation: "Speak Up for Justice",
     facebook: "https://www.facebook.com/allison.p.hartley",
