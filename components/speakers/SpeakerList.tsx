@@ -44,7 +44,7 @@ export default function SpeakerList() {
               <h3 className="text-4xl text-coc-dark-primary font-bold mb-2">
                 Greg Louie <br />
               </h3>
-              <h3 className="pt-1 text-3xl font-normal text-gray-400 hover:text-gray-500">
+              <h3 className="pt-1 text-3xl font-normal text-gray-400">
                 Saratoga High School Principal
               </h3>
             </div>
