@@ -12,11 +12,11 @@ const speakers = [
     email: "mahli.suwan@gmail.com",
     bio: "I’m Jasmine and I’m a sophomore at SHS! I’m really interested in public health and its intersection with social justice. In my free time, I like to cook and bake!",
   },
-  {
-    name: "Lexi Kupor",
-    pronouns: "(she/her)",
-    bio: "I’m Lexi, a recent LGHS graduate and incoming freshman at Stanford University. I’m passionate about pursuing survivors’ rights and protections through public policy and awareness.",
-  },
+  // {
+  //   name: "Lexi Kupor",
+  //   pronouns: "(she/her)",
+  //   bio: "I’m Lexi, a recent LGHS graduate and incoming freshman at Stanford University. I’m passionate about pursuing survivors’ rights and protections through public policy and awareness.",
+  // },
   {
     name: "Gianna Cagliostro",
     pronouns: "(she/they)",
