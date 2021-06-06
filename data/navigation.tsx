@@ -27,7 +27,7 @@ const navigation = {
   social: [
     {
       name: "Instagram",
-      href: "https://www.instagram.com/cultureofconsentshs/",
+      href: "https://www.instagram.com/cocshs/",
       icon: (props) => <FontAwesomeIcon icon={faInstagram} {...props} />,
     },
     {

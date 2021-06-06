@@ -117,7 +117,7 @@ export default function COC() {
               </div>
               <a
                 className="block w-full py-3 px-5 text-center bg-white uppercase border border-transparent shadow-sm text-base font-medium text-coc-purple-dark hover:bg-gray-50 sm:inline-block sm:w-auto"
-                href="https://www.instagram.com/cultureofconsentshs/"
+                href="https://www.instagram.com/cocshs/"
                 target="_blank"
               >
                 Instagram Page
